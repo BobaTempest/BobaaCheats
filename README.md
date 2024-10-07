@@ -1,4 +1,4 @@
-### [Discord](https://discord.gg/bHy6eRMNeV) [Youtube](https://www.youtube.com/@Liv1ngTempest)
+
 # BobaaCheats
 easy hub for safe and free cheats using batch
 
@@ -16,3 +16,6 @@ If there is ever a update you can easily access by typing "update" in your input
 By typing "update" in the input box you can update the batch file and ALL of the cheats at once
 
 Join the discord by simply typing "discord" 
+
+### [Discord](https://discord.gg/bHy6eRMNeV) 
+### [Youtube](https://www.youtube.com/@Liv1ngTempest)
