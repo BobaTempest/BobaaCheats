@@ -13,4 +13,5 @@ All the batch file really does is download multi different cheats for different 
 If there is ever a update you can easily access by typing "update" in your input box when using the batch file
 
 #### Features
-
+By typing "update" in the input box you can update the batch file and ALL of the cheats at once
+Join the discord by simply typing "discord" 
