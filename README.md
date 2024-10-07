@@ -12,3 +12,5 @@ All the batch file really does is download multi different cheats for different 
 ### All Files are managed and MANUALLY updated by [@Liv1ngTempest](https://www.youtube.com/@Liv1ngTempest)
 If there is ever a update you can easily access by typing "update" in your input box when using the batch file
 
+#### Features
+
