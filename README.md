@@ -7,3 +7,6 @@ When you run the file it pops up a window that says alot of different things if 
 
 ### All files are stored in a folder that is included when downloading **ITS REQUIRED**
 All the batch file really does is download multi different cheats for different games into one folder and let you access all of them within a batch file for easy and effiecnt access!
+
+
+## All Files are managed and MANUALLY updated by [@Liv1ngTempest](https://www.youtube.com/@Liv1ngTempest)
