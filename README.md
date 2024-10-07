@@ -1,5 +1,5 @@
-[Official Discord](https://discord.gg/bHy6eRMNeV)
-
+[Discord](https://discord.gg/bHy6eRMNeV)
+[Youtube](https://www.youtube.com/@Liv1ngTempest)
 # BobaaCheats
 easy hub for safe and free cheats using batch
 
